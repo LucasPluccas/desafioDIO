@@ -21,7 +21,11 @@ switch(XP){
     case(XP <1.000):
         nivel = "Ferro"
         break;
+case(XP >1.000 <2.000):
+nível = "Bronze"
+break;
+
         default:
 }
-console.log(nivel)
+
 
