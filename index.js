@@ -12,3 +12,16 @@
 //#saída
 //printar uma mensagem:
 // O herói de nome (nome) está no nível de (nivel)
+
+let name ="Lucas Kenobi"
+let XP = "800"
+let nivel =""
+
+switch(XP){
+    case(XP <1.000):
+        nivel = "Ferro"
+        break;
+        default:
+}
+console.log(nivel)
+
