@@ -14,7 +14,7 @@
 // O herói de nome (nome) está no nível de (nivel)
 
 let name ="Lucas Kenobi"
-let xp = ""
+let xp = 
 let nivel =""
 
 switch(xp){
