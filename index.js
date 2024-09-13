@@ -40,4 +40,4 @@ break;
 console.log("Insira o xp do herói)
 }
 
-
+console.log(" O herói de nome " + name + " está no nível de " + nivel)
