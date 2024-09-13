@@ -4,7 +4,7 @@ let xp =
 let nivel = "";
 
 switch (true) {
-    case (XP < 1000):
+    case (xp < 1000):
         nivel = "Ferro"
         break;
     case (xp >1000 && xp <2001):
@@ -23,7 +23,7 @@ break;
     case (xp >= 10001):
      nivel="Radiante"
         default:
-console.log("Insira o xp do herói)
+console.log("Insira o xp do herói")
 }
 
 console.log("O herói de nome " + name + " está no nível de " + nivel)
